@@ -1,6 +1,6 @@
 ## How to contribute
 1. You can contribute in terms of matlab code for ***backwards walk*** of the bot automi.
-2. Refer to [CONTRIBUTING.md](https://github.com/akkr2003/Automi-Simulation/blob/main/CONTRIBUTING.md) on how to contribute. 
+
 ## Following the procedure you can make your contribution with ease.
 
 ### Step 0
