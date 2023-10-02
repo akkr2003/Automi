@@ -31,3 +31,4 @@ Arguments: yawAngle= angle by which the bot turns about the z-axis
         Pose 8: Left leg rotates
         Pose 9: Left foot again on ground
 
+***Refer to [CONTRIBUTING.md](https://github.com/akkr2003/Automi-Simulation/blob/main/CONTRIBUTING.md) on how to contribute. 
