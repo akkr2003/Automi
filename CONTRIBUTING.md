@@ -2,7 +2,7 @@
 # Learn Data Structures and Algorithms
 
 ## How to contribute
-1. You can contribute in terms of matlab code for ***backwards walk***
+1. You can contribute in terms of matlab code for ***backwards walk*** of the bot automi.
 2. 
 ## Following the procedure you can make your contribution with ease.
 
